@@ -1,16 +1,10 @@
-Hi I am Abdul Rehman, I am having 3+ years of experience in the area of Software Testing with good understanding of Test Planning, Test Design, Test Execution, Defect Reporting and Tracking.
+As a Certified Microsoft Power Platform Developer with experience developing two products, FXEmail Analyzer and Salesmoji, using Power Apps, Power Automate, and Dataverse, I possess a strong foundation in analyzing intricate requirements, designing scalable solutions, and streamlining processes. My proficiency extends to seamlessly integrating data utilizing databases such as MySQL Workbench and MongoDB.
 
-Expertise in Understanding and Analyzing Test Requirements, Tracking changes and maintenance of Test Requirements.
+In addition to my technical expertise, I bring extensive software testing experience, demonstrating proficiency in test planning, design, execution, defect reporting, and tracking throughout both the Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC). My commitment to excellence and ethical work practices drives my consistent innovation aligned with corporate objectives.
 
-Well acquainted with all phases of SDLC and STLC.
+I am a self-motivated and highly ethical professional with strong written and verbal communication skills. My advanced problem-solving abilities, dedication to teamwork, leadership, and mentoring make me a proven team player. I take pride in delivering high-quality work that adheres to industry standards.
 
-Proficient in devising all the artifacts of testing such as Test Scenarios, Test Cases, Defect Reports and Test Summary reports.
-
-Self-motivated, energetic and highly ethical in all work related assignments thus able to immediately contribute to corporate goals.
-
-Good written, communication, interpersonal skill, proven team player with an analytical mind bent to problem solving and delivering solutions.
-
-Currently working with AIMLYTICS TECHNOLOGIES PRIVATE LIMITED as Software QA Engineer.
+Confident in my ability to contribute positively to your organization's objectives and goals, I am eager to leverage my skills to exceed client expectations and drive successful outcomes. With over 4 years of experience in the field of Software Testing, I have a comprehensive understanding of Test Planning, Test Design, Test Execution, Defect Reporting, and Tracking.
 
 Projects:-
 
